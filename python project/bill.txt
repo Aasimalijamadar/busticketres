@@ -1,0 +1,4 @@
+From : miraj	 To : pune
+Date : 17/10		Time : 12:00
+SL : 05 11 18 	ST : 01 05 06 10 
+Rs : 1866.6666666666665
